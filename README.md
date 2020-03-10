@@ -1,2 +1,7 @@
 # hello-squirrel
-Totally nuts
+
+Hello squirrel,
+
+Everyone thinks you're totally nuts.
+
+Congratulations!
